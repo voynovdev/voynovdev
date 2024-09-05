@@ -8,3 +8,5 @@
   2.[Домашние работы JS взаимодействие с браузером](https://github.com/voynovdev/bhj-homeworks)<br>
   3.[Дипломное задание по основам JS](https://github.com/voynovdev/bjs-diplom)<br>
   4.[Дипломное задание по основам JS](https://github.com/voynovdev/bhj-diploma)
+# Сертификат Нетологии
+[Свидетельство](https://netology.ru/backend/api/user/programs/40161/pdf_certificate)
